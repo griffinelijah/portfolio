@@ -52,12 +52,7 @@ h4 {
 p {
     line-height: 24px
 }
-a,
-a:focus,
-a:hover {
-    text-decoration: none;
-    outline: 0
-}
+
 li {
     list-style-type: none
 }
@@ -273,7 +268,7 @@ section {
     margin-bottom: 25px
 }
 .home-background {
-    background: url(../images/background.jpg) center center no-repeat;
+    background: url(../images/computer-keyboard.jpg) center center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -ms-background-size: cover;
@@ -352,7 +347,7 @@ section {
 .about-2{
     font-size: 18px;
     padding: 30px 0px 30px 0px;
-    text-align: justify;
+    text-align: justify; 
 }
 .portfolio-filter {
     margin-bottom: 35px
